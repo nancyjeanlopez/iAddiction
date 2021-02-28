@@ -4,7 +4,7 @@ body {
   overflow: scroll;
 }
 
-@viewport {
+viewport {
   width: device-width ;
   zoom: 1.0 ;
 }
