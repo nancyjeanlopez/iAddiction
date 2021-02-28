@@ -2,6 +2,7 @@ body {
   background-color: #404040;
   height: auto;
   overflow: scroll;
+  width: 100%;
 }
 
 #container {
